@@ -304,7 +304,7 @@ flex-direction: column;
         z-index: 19;
     }
     .gamebody h1{
-        left:40px;top:-25px;
+        left:35px;top:-25px;
         font-size:30px;
     } 
     .game{position: absolute;
