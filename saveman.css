@@ -305,6 +305,7 @@ flex-direction: column;
     }
     .gamebody h1{
         left:40px;top:-25px;
+        font-size:30px;
     } 
     .game{position: absolute;
         width: 100%;
